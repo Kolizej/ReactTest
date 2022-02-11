@@ -1,5 +1,5 @@
 import React, { FC } from 'react';
-import {Image, Nav, Navbar} from "react-bootstrap";
+import {Nav, Navbar} from "react-bootstrap";
 import {LinkContainer} from 'react-router-bootstrap'
 
 interface HeaderMainProps {}
